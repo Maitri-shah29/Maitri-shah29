@@ -5,6 +5,7 @@ As a second year Computer Science student at VIT Vellore, I am passionate about 
 # 💫 About Me:
 🔧 Currently building: A Community Application<br>
 💡 Curious about: Android Development & Backend Engineering<br>
+📖 Learning: GoLang, GoFiber<br>
 🤝 Open to collaborating on exciting tech projects<br>
 📫 Reach me at: maitri09shah@gmail.com<br>
 

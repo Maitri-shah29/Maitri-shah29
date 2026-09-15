@@ -11,6 +11,10 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
+###
+
+• Contact: **maitri09shah@gmail.com**  
+
 ---
 
 ## 🛠️ Tech Stack
@@ -44,10 +48,7 @@
 
 ## 📫 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/maitri-shah29)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:maitri09shah@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/maitri-shah29)
 
 </div>
 
